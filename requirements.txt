@@ -1,0 +1,16 @@
+# Versions used for every number in results/ (Apple M1 Max, macOS, Python 3.11).
+numpy==2.4.6
+scipy==1.17.1
+soundfile==0.13.1
+pandas==3.1.0
+jiwer==4.0.0
+num2words==0.5.14
+pyarrow==26.0.0
+remotezip==0.12.6
+huggingface_hub==2.4.0
+torch==2.15.0
+torchaudio==2.11.1
+transformers==5.22.1          # Nemotron3_5AsrForRNNT needs >= 5.13
+mlx-whisper==0.4.3; sys_platform == "darwin"
+pipecat-ai[silero]==1.15.0
+pytest==9.2.0

@@ -1,0 +1,6 @@
+{
+  "name": "whisper-large-v3-turbo-es",
+  "description": "mlx-community/whisper-large-v3-turbo (mlx-whisper, language=es, greedy)",
+  "spec": "whisper",
+  "machine": "macOS-27.2-arm64-arm-64bit / arm / py3.11.11"
+}

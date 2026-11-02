@@ -1,0 +1,45 @@
+# Synthetic Spanish-English code-switching prompts, written for this project (MIT).
+# Contact-center register, Mexican/US-Latino Spanish. English spans are wrapped in {braces};
+# the braces are removed for the spoken text and the reference, and only used to tag
+# which reference words are English for the per-language error breakdown.
+# id	text
+cs001	Hola, necesito hacer un {refund} de mi última compra porque llegó dañada.
+cs002	Ya intenté hacer {log in} pero me sale que mi {password} está mal.
+cs003	¿Me puedes mandar el {tracking number} por correo, por favor?
+cs004	Mi {flight} sale mañana temprano y todavía no tengo el {boarding pass}.
+cs005	Quiero cancelar la {subscription} antes de que me cobren otra vez.
+cs006	El técnico dijo que tenía que hacer un {reset} del {router}.
+cs007	Estoy en el {parking lot} esperando mi orden de {pickup}.
+cs008	¿Cuánto cuesta el {upgrade} al plan {premium}?
+cs009	La {app} se traba cada vez que abro mi {account}.
+cs010	Ya hablé con tu {supervisor} y me dijo que me iban a dar un {discount}.
+cs011	Necesito cambiar la {billing address} de mi tarjeta.
+cs012	Mi jefe me pidió el {report} para el {meeting} de las tres.
+cs013	No me llegó el {email} de {confirmation} de la reservación.
+cs014	¿Aceptan {cash} o nada más tarjeta de crédito?
+cs015	Le di {click} al {link} y me mandó a una página en blanco.
+cs016	Estoy trabajando {part time} en una {coffee shop} cerca de la universidad.
+cs017	El {deadline} para mandar los papeles es el viernes.
+cs018	Me dijeron que mi {claim} todavía está en {review}.
+cs019	¿Puedo hacer el pago con {Apple Pay} o con {PayPal}?
+cs020	Mi hijo tiene {practice} de {soccer} todos los martes.
+cs021	Quiero hablar con alguien de {customer service}, no con la máquina.
+cs022	La {delivery} decía que llegaba hoy pero sigue en {pending}.
+cs023	Necesito una {receipt} para mi {expense report}.
+cs024	El internet está súper lento desde que hicieron el {update}.
+cs025	Ya mandé el {screenshot} con el {error message}.
+cs026	{Anyway}, lo que quiero es que me regresen mi dinero.
+cs027	Tengo una cita en el {downtown} para lo de mi {driver's license}.
+cs028	Mi {landlord} no quiere arreglar la {heater} del departamento.
+cs029	¿Tienen {free shipping} si compro más de cincuenta dólares?
+cs030	Hice el {checkout} pero el carrito se quedó vacío.
+cs031	La {nurse} me dijo que esperara la llamada del {doctor}.
+cs032	Estoy buscando un trabajo de {full time} con {benefits}.
+cs033	Ya tengo el {appointment} confirmado para el lunes en la mañana.
+cs034	Me cobraron un {late fee} aunque pagué a tiempo.
+cs035	¿Me puedes dar el número de {reference} del caso?
+cs036	Mi {phone} se quedó sin {battery} y no pude contestar.
+cs037	Quiero activar el {autopay} para no olvidar los pagos.
+cs038	El {manager} de la tienda me dijo que hablara con ustedes.
+cs039	Está bien, {thank you so much}, que tenga buen día.
+cs040	{Okay}, entonces espero el {follow up} la próxima semana.

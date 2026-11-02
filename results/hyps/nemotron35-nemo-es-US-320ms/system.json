@@ -1,0 +1,6 @@
+{
+  "name": "nemotron35-nemo-es-US-320ms",
+  "description": "nvidia/nemotron-3.5-asr-streaming-0.6b (NeMo, lang=es-US, att_context=[56, 3], cpu)",
+  "spec": "nemotron-nemo",
+  "machine": "macOS-27.2-arm64-arm-64bit / arm / py3.11.11"
+}

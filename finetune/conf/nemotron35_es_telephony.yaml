@@ -1,0 +1,64 @@
+# Fine-tuning Nemotron 3.5 ASR (0.6B, cache-aware FastConformer-RNNT + LangID prompt)
+# on Latin American Spanish with on-the-fly G.711 telephony augmentation.
+#
+# Values are a starting point sized for 1x H100 80GB (see docs/CLOUD_FINETUNE.md);
+# they have NOT been tuned by an actual run yet (results pending).
+
+init_from_pretrained_model: nvidia/nemotron-3.5-asr-streaming-0.6b
+# or: init_from_nemo_model: /models/nemotron-3.5-asr-streaming-0.6b.nemo
+
+data:
+  train_manifest: /data/ft/train_manifest.json
+  val_manifest: /data/ft/val_manifest.json
+  # Lhotse dynamic batching: total seconds of audio per batch per GPU
+  batch_duration: 600
+  num_buckets: 30
+  max_duration: 25.0
+  min_duration: 0.5
+  num_workers: 8
+  # the checkpoint's own train_ds reads the prompt language from this manifest field
+  lang_field: target_lang
+
+augment:
+  telephony_p: 0.7       # share of utterances sent through the simulated phone channel
+  max_packet_loss: 0.08  # packet loss rate ~ U(0, 0.08)
+  noise_p: 0.5
+  snr_db: [5.0, 25.0]
+
+model:
+  # keep SpecAugment from the checkpoint; it composes with the codec augmentation
+  freeze_encoder_layers: 0   # full fine-tune (NVIDIA's own recipe: no LoRA yet)
+  optim:
+    name: adamw
+    lr: 3.0e-5
+    betas: [0.9, 0.98]
+    weight_decay: 1.0e-3
+    sched:
+      name: CosineAnnealing
+      warmup_steps: 250
+      min_lr: 1.0e-6
+
+trainer:
+  devices: -1
+  accelerator: gpu
+  strategy: auto
+  precision: bf16-mixed
+  max_steps: 2500          # fixed step budget (~8 passes over ~50 h; Lhotse data has no epoch length)
+  val_check_interval: 250
+  limit_train_batches: 250 # "epoch" = 250 steps, for logging/checkpoint cadence
+  gradient_clip_val: 1.0
+  accumulate_grad_batches: 1
+  log_every_n_steps: 25
+  logger: false
+  enable_checkpointing: false
+
+exp_manager:
+  exp_dir: /runs
+  name: nemotron35_es_telephony
+  create_tensorboard_logger: true
+  create_checkpoint_callback: true
+  checkpoint_callback_params:
+    monitor: val_wer
+    mode: min
+    save_top_k: 3
+    always_save_nemo: true

@@ -1,0 +1,80 @@
+{"id": "es001_paulina", "hyp": "Hola, necesito hacer una devolución de mi última compra porque llegó dañada. <es-US>", "audio_sec": 5.978, "proc_sec": 0.2728}
+{"id": "es001_eddy", "hyp": "Hola, necesito hacer una devolución de mi última compra porque llegó dañada. <es-US>", "audio_sec": 5.381, "proc_sec": 0.2193}
+{"id": "es001_flo", "hyp": "", "audio_sec": 5.381, "proc_sec": 0.1488}
+{"id": "es001_reed", "hyp": "Hola, necesito hacer una devolución de mi última compra porque llegó dañada. <es-US>", "audio_sec": 5.381, "proc_sec": 0.2134}
+{"id": "es002_paulina", "hyp": "Ya intenté entrar a mi cuenta, pero me sale que mi contraseña está mal. <es-US>", "audio_sec": 5.339, "proc_sec": 0.2348}
+{"id": "es002_eddy", "hyp": "", "audio_sec": 4.918, "proc_sec": 0.1412}
+{"id": "es002_flo", "hyp": "", "audio_sec": 4.918, "proc_sec": 0.1329}
+{"id": "es002_reed", "hyp": "", "audio_sec": 4.918, "proc_sec": 0.1305}
+{"id": "es003_paulina", "hyp": "Me puedes mandar el número de rastreo por correo, por favor. <es-US>", "audio_sec": 4.919, "proc_sec": 0.189}
+{"id": "es003_eddy", "hyp": "Después de su manglaro el número de rastruevo por correo, por favor. <es-US>", "audio_sec": 4.617, "proc_sec": 0.2031}
+{"id": "es003_flo", "hyp": "Me puedes remembrar el número de rastruevo por corredo, por favor. <es-US>", "audio_sec": 4.617, "proc_sec": 0.1992}
+{"id": "es003_reed", "hyp": "Después de su madre la verdad o del rastroe o por correo, por favor", "audio_sec": 4.617, "proc_sec": 0.2268}
+{"id": "es004_paulina", "hyp": "Mi vuelo sale mañana temprano y todavía no tengo el pase de abordar. <es-US>", "audio_sec": 5.419, "proc_sec": 0.2524}
+{"id": "es004_eddy", "hyp": "Después de los sale bañada temprano y todavía no tengo el pase de abordar. <es-US>", "audio_sec": 5.022, "proc_sec": 0.2241}
+{"id": "es004_flo", "hyp": "Bueno, sea de mañana, la temprano y programa lo tengo el pase de abordar. <es-US>", "audio_sec": 5.022, "proc_sec": 0.2198}
+{"id": "es004_reed", "hyp": "Después de los sale bañada temprano y todavía lo tengo el pase de abordar. <es-US>", "audio_sec": 5.022, "proc_sec": 0.2102}
+{"id": "es005_paulina", "hyp": "Quiero cancelar la suscripción antes de que me cobren otra vez. <es-US>", "audio_sec": 4.796, "proc_sec": 0.1973}
+{"id": "es005_eddy", "hyp": "Neuero cancelar la suscripción antes de que me cobren otra vez. <es-US>", "audio_sec": 4.485, "proc_sec": 0.2255}
+{"id": "es005_flo", "hyp": "Los largos suscripción antes de que me cobren otra vez. <es-US>", "audio_sec": 4.485, "proc_sec": 0.2145}
+{"id": "es005_reed", "hyp": "Claire a cancelar la suscripción de antes de que me cobren otra vez. <es-US>", "audio_sec": 4.485, "proc_sec": 0.1933}
+{"id": "es006_paulina", "hyp": "El técnico dijo que tenía que reiniciar el módem. <es-US>", "audio_sec": 4.144, "proc_sec": 0.184}
+{"id": "es006_eddy", "hyp": "El técnico dijo que tenía que reiniciar el Bodemu. <es-US>", "audio_sec": 3.889, "proc_sec": 0.1746}
+{"id": "es006_flo", "hyp": "El técnico dijo que se libra que reiniciaron el módemo. <es-US>", "audio_sec": 3.889, "proc_sec": 0.1827}
+{"id": "es006_reed", "hyp": "El tecnico dijo que tenía que reiniciar el Bolne. <es-US>", "audio_sec": 3.889, "proc_sec": 0.1697}
+{"id": "es007_paulina", "hyp": "Estoy en el estacionamiento esperando mi pedido. <es-US>", "audio_sec": 4.074, "proc_sec": 0.1834}
+{"id": "es007_eddy", "hyp": "Estoy en el estacionamiento de Esperando mi pedido. <es-US>", "audio_sec": 3.716, "proc_sec": 0.1851}
+{"id": "es007_flo", "hyp": "Estoy en el estacionamiento de Esperandro, mi pedido. <es-US>", "audio_sec": 3.716, "proc_sec": 0.1711}
+{"id": "es007_reed", "hyp": "Estoy en el estacionamiento de Esperandro mi pedido. <es-US>", "audio_sec": 3.716, "proc_sec": 0.1613}
+{"id": "es008_paulina", "hyp": "Quanto cuesta cambiarme al plan más completo. <es-US>", "audio_sec": 3.887, "proc_sec": 0.171}
+{"id": "es008_eddy", "hyp": "Cuando cuesta cambiarme al plan más completo. <es-US>", "audio_sec": 3.733, "proc_sec": 0.1675}
+{"id": "es008_flo", "hyp": "Puede a cambiarme al plan más completo. <es-US>", "audio_sec": 3.733, "proc_sec": 0.1633}
+{"id": "es008_reed", "hyp": "Cuando esta cambiarme al plan más completo. <es-US>", "audio_sec": 3.733, "proc_sec": 0.1618}
+{"id": "es009_paulina", "hyp": "La aplicación se traba cada vez que abro mi cuenta. <es-US>", "audio_sec": 4.236, "proc_sec": 0.2054}
+{"id": "es009_eddy", "hyp": "La publicación se traba cada vez que abrovico entra. <es-US>", "audio_sec": 3.982, "proc_sec": 0.2004}
+{"id": "es009_flo", "hyp": "La comunicación se prove cada vez que abrom ni cointra. <es-US>", "audio_sec": 3.982, "proc_sec": 0.1704}
+{"id": "es009_reed", "hyp": "La publicación se trabala cada vez que abro mi cuenta. <es-US>", "audio_sec": 3.982, "proc_sec": 0.1772}
+{"id": "es010_paulina", "hyp": "Ya hablé con tu supervisor y me dijo que me iban a dar un descuento. <es-US>", "audio_sec": 5.061, "proc_sec": 0.2224}
+{"id": "es010_eddy", "hyp": "Ya glé con supervisor y me dijo que me iban a dar un descuento. <es-US>", "audio_sec": 4.375, "proc_sec": 0.1979}
+{"id": "es010_flo", "hyp": "me dijo que me iban a hablar un descuento", "audio_sec": 4.375, "proc_sec": 0.1698}
+{"id": "es010_reed", "hyp": "me dijo que me iban a dar un descuento. <es-US>", "audio_sec": 4.375, "proc_sec": 0.1888}
+{"id": "es011_paulina", "hyp": "Necesito cambiar la dirección de facturación de mi tarjeta. <es-US>", "audio_sec": 4.828, "proc_sec": 0.2139}
+{"id": "es011_eddy", "hyp": "Desde citolo cambiar la dirección de la facturación de mi tarjeta. <es-US>", "audio_sec": 4.305, "proc_sec": 0.189}
+{"id": "es011_flo", "hyp": "Desde sí vocamina la dirección de facturación de metar ella. <es-US>", "audio_sec": 4.305, "proc_sec": 0.1772}
+{"id": "es011_reed", "hyp": "Desde cito cambiaron la dirección de facturación de mi tarjeta. <es-US>", "audio_sec": 4.305, "proc_sec": 0.1802}
+{"id": "es012_paulina", "hyp": "Mi jefe me pidió el informe para la Junta de las Tres. <es-US>", "audio_sec": 4.327, "proc_sec": 0.1861}
+{"id": "es012_eddy", "hyp": "", "audio_sec": 4.005, "proc_sec": 0.1207}
+{"id": "es012_flo", "hyp": "Me me perdió el informe para la contra de las tres. <es-US>", "audio_sec": 4.005, "proc_sec": 0.1615}
+{"id": "es012_reed", "hyp": "", "audio_sec": 4.005, "proc_sec": 0.1297}
+{"id": "es013_paulina", "hyp": "No me llegó el correo de confirmación de la reservación. <es-US>", "audio_sec": 4.422, "proc_sec": 0.182}
+{"id": "es013_eddy", "hyp": "Cuando llegó el correo donde confirmación de la reservación. <es-US>", "audio_sec": 4.224, "proc_sec": 0.1886}
+{"id": "es013_flo", "hyp": "Como me digo en el correo de compra de confirmación de la reservación. <es-US>", "audio_sec": 4.224, "proc_sec": 0.19}
+{"id": "es013_reed", "hyp": "Cuando llegó el correo, donde confirmación de la reservación. <es-US>", "audio_sec": 4.224, "proc_sec": 0.1923}
+{"id": "es014_paulina", "hyp": "Aceptan efectivo o nada más tarjeta de crédito. <es-US>", "audio_sec": 4.364, "proc_sec": 0.1784}
+{"id": "es014_eddy", "hyp": "A célula de flexible o nega más tarjeta de crédito. <es-US>", "audio_sec": 3.901, "proc_sec": 0.2003}
+{"id": "es014_flo", "hyp": "", "audio_sec": 3.901, "proc_sec": 0.1284}
+{"id": "es014_reed", "hyp": "A servicia de flexible voluntales tarjetas de crédito. <es-US>", "audio_sec": 3.901, "proc_sec": 0.1987}
+{"id": "es015_paulina", "hyp": "Leví click al enlace y me mandó a una página en blanco. <es-US>", "audio_sec": 4.538, "proc_sec": 0.2239}
+{"id": "es015_eddy", "hyp": "La ley clica en el enlace y me magno a una página de blanco", "audio_sec": 4.086, "proc_sec": 0.1862}
+{"id": "es015_flo", "hyp": "", "audio_sec": 4.086, "proc_sec": 0.1254}
+{"id": "es015_reed", "hyp": "La ley clic al enlace y me bandó a una página de blanco", "audio_sec": 4.086, "proc_sec": 0.1779}
+{"id": "es016_paulina", "hyp": "Estoy trabajando medio tiempo en una cafetería cerca de la universidad. <es-US>", "audio_sec": 5.607, "proc_sec": 0.2308}
+{"id": "es016_eddy", "hyp": "Estoy trabajando vledios tiempo en una cafetería acerca de la universidad. <es-US>", "audio_sec": 4.988, "proc_sec": 0.2169}
+{"id": "es016_flo", "hyp": "", "audio_sec": 4.988, "proc_sec": 0.156}
+{"id": "es016_reed", "hyp": "El stoy traen de lo de ni el tiempo en una cafetería acerca de la universidad. <es-US>", "audio_sec": 4.988, "proc_sec": 0.2625}
+{"id": "es017_paulina", "hyp": "La fecha límite para mandar los papeles es el viernes. <es-US>", "audio_sec": 4.619, "proc_sec": 0.2076}
+{"id": "es017_eddy", "hyp": "La fecha limita para amandar los papeles desde el viernes. <es-US>", "audio_sec": 4.19, "proc_sec": 0.2026}
+{"id": "es017_flo", "hyp": "La pueda limitar para madrear los papeles es el viernes. <es-US>", "audio_sec": 4.19, "proc_sec": 0.2016}
+{"id": "es017_reed", "hyp": "La frecha le investi para mandar los papeles desde el viernes. <es-US>", "audio_sec": 4.19, "proc_sec": 0.2072}
+{"id": "es018_paulina", "hyp": "Me dijeron que mi reclamación todavía está en revisión. <es-US>", "audio_sec": 4.478, "proc_sec": 0.2154}
+{"id": "es018_eddy", "hyp": "Valíron que mi reclamación todavía está en revisión. <es-US>", "audio_sec": 4.317, "proc_sec": 0.1827}
+{"id": "es018_flo", "hyp": "", "audio_sec": 4.317, "proc_sec": 0.1251}
+{"id": "es018_reed", "hyp": "Vadieron, mica mira reclamación todavía está en provisión. <es-US>", "audio_sec": 4.317, "proc_sec": 0.1851}
+{"id": "es019_paulina", "hyp": "Quiero hablar con alguien de atención a clientes, no con la máquina. <es-US>", "audio_sec": 5.226, "proc_sec": 0.2154}
+{"id": "es019_eddy", "hyp": "Claro vacular con alguien de la atención de la cliniendres o con la máquina", "audio_sec": 4.728, "proc_sec": 0.206}
+{"id": "es019_flo", "hyp": "Quiero hablar con alguien en la atención de la clientes como con la máquina", "audio_sec": 4.728, "proc_sec": 0.2045}
+{"id": "es019_reed", "hyp": "Clero vagular con alguien de la atención de la clientes o con la máquina", "audio_sec": 4.728, "proc_sec": 0.2291}
+{"id": "es020_paulina", "hyp": "El paquete decía que llegaba hoy pero sigue pendiente. <es-US>", "audio_sec": 4.353, "proc_sec": 0.1774}
+{"id": "es020_eddy", "hyp": "El paquete del decía que llegaba hoy, pero sí, el buen vientre. <es-US>", "audio_sec": 4.074, "proc_sec": 0.1821}
+{"id": "es020_flo", "hyp": "El pake decía que llegaba y vero sí es enviable. <es-US>", "audio_sec": 4.074, "proc_sec": 0.1677}
+{"id": "es020_reed", "hyp": "El paquete detella que llenaba hoy pero sí el pendiente. <es-US>", "audio_sec": 4.074, "proc_sec": 0.1721}

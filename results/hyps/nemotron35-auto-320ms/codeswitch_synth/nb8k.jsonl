@@ -1,0 +1,160 @@
+{"id": "cs001_paulina", "hyp": "Hola, necesito hacer un refund de mi última compra porque llegó dañada. <es-ES>", "audio_sec": 5.723, "proc_sec": 0.1852}
+{"id": "cs001_eddy", "hyp": "Hola, necesito hacer un refun de mi última compra porque llegó gañada. <es-ES>", "audio_sec": 5.23, "proc_sec": 0.1774}
+{"id": "cs001_flo", "hyp": "", "audio_sec": 5.23, "proc_sec": 0.1219}
+{"id": "cs001_reed", "hyp": "Hola, necesito hacer un refugio de mi urgente compra porque llegó gañada. <es-ES>", "audio_sec": 5.23, "proc_sec": 0.177}
+{"id": "cs002_paulina", "hyp": "Já intenté hacerlo, pero me sale que mi password está mal. <es-ES>", "audio_sec": 4.817, "proc_sec": 0.1518}
+{"id": "cs002_eddy", "hyp": "", "audio_sec": 4.467, "proc_sec": 0.1071}
+{"id": "cs002_flo", "hyp": "", "audio_sec": 4.467, "proc_sec": 0.1057}
+{"id": "cs002_reed", "hyp": "", "audio_sec": 4.467, "proc_sec": 0.1054}
+{"id": "cs003_paulina", "hyp": "Me puedes mandar el tracking number por correo, por favor. <es-ES>", "audio_sec": 4.885, "proc_sec": 0.1506}
+{"id": "cs003_eddy", "hyp": "", "audio_sec": 4.34, "proc_sec": 0.1039}
+{"id": "cs003_flo", "hyp": "", "audio_sec": 4.34, "proc_sec": 0.1034}
+{"id": "cs003_reed", "hyp": "", "audio_sec": 4.34, "proc_sec": 0.1038}
+{"id": "cs004_paulina", "hyp": "Mi slide sale mañana temprano y todavía no tengo el bording pass. <es-ES>", "audio_sec": 5.21, "proc_sec": 0.1836}
+{"id": "cs004_eddy", "hyp": "", "audio_sec": 4.883, "proc_sec": 0.1116}
+{"id": "cs004_flo", "hyp": "", "audio_sec": 4.883, "proc_sec": 0.1072}
+{"id": "cs004_reed", "hyp": "Depois Sale Vagnala levo brano di toda mia o tengo del bolar de bas. <pt-PT>", "audio_sec": 4.883, "proc_sec": 0.1685}
+{"id": "cs005_paulina", "hyp": "Quiero cancelar la subscription antes de que me cobren otra vez. <es-ES>", "audio_sec": 4.878, "proc_sec": 0.1586}
+{"id": "cs005_eddy", "hyp": "Quiero cancelar la suscribión antes de que me cobren otra vez. <es-ES>", "audio_sec": 4.496, "proc_sec": 0.153}
+{"id": "cs005_flo", "hyp": "", "audio_sec": 4.496, "proc_sec": 0.1045}
+{"id": "cs005_reed", "hyp": "antes de que recobren otra vez. <es-ES>", "audio_sec": 4.496, "proc_sec": 0.1342}
+{"id": "cs006_paulina", "hyp": "El técnico dijo que tenía que hacer un reset del router. <es-ES>", "audio_sec": 4.643, "proc_sec": 0.1468}
+{"id": "cs006_eddy", "hyp": "El técnico dijo que tendría que hacer un recept del roter. <es-ES>", "audio_sec": 4.294, "proc_sec": 0.1431}
+{"id": "cs006_flo", "hyp": "El técnico dijo que sería que al ser uno recebe del roger. <es-ES>", "audio_sec": 4.294, "proc_sec": 0.152}
+{"id": "cs006_reed", "hyp": "Del técnico dijo que pedía que al ser un reset del rocker. <es-ES>", "audio_sec": 4.294, "proc_sec": 0.149}
+{"id": "cs007_paulina", "hyp": "Estoy en el parque in loro esperando mi orden de Pick Good. <es-ES>", "audio_sec": 4.318, "proc_sec": 0.1513}
+{"id": "cs007_eddy", "hyp": "Estoy en el parque en Loute Sperán lo mejor orden del PCU. <es-ES>", "audio_sec": 3.97, "proc_sec": 0.2305}
+{"id": "cs007_flo", "hyp": "Estoy en el parque en Loutes Perandro mi orden de Piku. <es-ES>", "audio_sec": 3.97, "proc_sec": 0.1574}
+{"id": "cs007_reed", "hyp": "Estoy en el parque en Loutes Verán lo mi orden del PC. <es-ES>", "audio_sec": 3.97, "proc_sec": 0.1476}
+{"id": "cs008_paulina", "hyp": "Quanto cuesta el upgrade al plan Premium. <es-ES>", "audio_sec": 3.597, "proc_sec": 0.1306}
+{"id": "cs008_eddy", "hyp": "Quando questa elucrale al Plan Premio. <it-IT>", "audio_sec": 3.467, "proc_sec": 0.1287}
+{"id": "cs008_flo", "hyp": "Pues el lugar del Plan Premium. <es-ES>", "audio_sec": 3.467, "proc_sec": 0.1244}
+{"id": "cs008_reed", "hyp": "", "audio_sec": 3.467, "proc_sec": 0.0961}
+{"id": "cs009_paulina", "hyp": "La app se traba cada vez que abro mi account. <es-ES>", "audio_sec": 3.83, "proc_sec": 0.1308}
+{"id": "cs009_eddy", "hyp": "kaldameska abrovia kong. <lv-LV>", "audio_sec": 3.519, "proc_sec": 0.1185}
+{"id": "cs009_flo", "hyp": "", "audio_sec": 3.519, "proc_sec": 0.0915}
+{"id": "cs009_reed", "hyp": "Lapse trauda kada beska abrov jākong. <lv-LV>", "audio_sec": 3.519, "proc_sec": 0.1221}
+{"id": "cs010_paulina", "hyp": "Ya hablé con tu supervisor y me dijo que me iban a dar un discount. <es-ES>", "audio_sec": 5.072, "proc_sec": 0.1881}
+{"id": "cs010_eddy", "hyp": "me dijo que veio alargó un disco. <es-ES>", "audio_sec": 4.34, "proc_sec": 0.1308}
+{"id": "cs010_flo", "hyp": "", "audio_sec": 4.34, "proc_sec": 0.1024}
+{"id": "cs010_reed", "hyp": "", "audio_sec": 4.34, "proc_sec": 0.1002}
+{"id": "cs011_paulina", "hyp": "Necesito cambiar la Beijing madres de mi tarjeta. <es-ES>", "audio_sec": 4.202, "proc_sec": 0.1381}
+{"id": "cs011_eddy", "hyp": "Neslē citolo cambiar la virgen albergea. <es-ES>", "audio_sec": 3.681, "proc_sec": 0.1288}
+{"id": "cs011_flo", "hyp": "Necesito cambiar la mínima dura. <es-ES>", "audio_sec": 3.681, "proc_sec": 0.1213}
+{"id": "cs011_reed", "hyp": "Nese cito cambiar la origen algo e tarjeta. <it-IT>", "audio_sec": 3.681, "proc_sec": 0.1565}
+{"id": "cs012_paulina", "hyp": "Mi séfé me pidió el report para el meeting de las tres. <es-ES>", "audio_sec": 4.246, "proc_sec": 0.1442}
+{"id": "cs012_eddy", "hyp": "", "audio_sec": 4.016, "proc_sec": 0.0992}
+{"id": "cs012_flo", "hyp": "Me y me periodo report para el medio en de las tres. <es-ES>", "audio_sec": 4.016, "proc_sec": 0.1386}
+{"id": "cs012_reed", "hyp": "", "audio_sec": 4.016, "proc_sec": 0.097}
+{"id": "cs013_paulina", "hyp": "No me llegó el email de confirmation de la reservación. <es-ES>", "audio_sec": 4.317, "proc_sec": 0.1362}
+{"id": "cs013_eddy", "hyp": "Como me llegó a el valid observar y donde la reservación", "audio_sec": 4.062, "proc_sec": 0.1484}
+{"id": "cs013_flo", "hyp": "Como me digo en el mayor, como el mayori donde la reservación. <es-ES>", "audio_sec": 4.062, "proc_sec": 0.1548}
+{"id": "cs013_reed", "hyp": "", "audio_sec": 4.062, "proc_sec": 0.101}
+{"id": "cs014_paulina", "hyp": "Aceptan cafonada más tarjeta de crédito. <es-ES>", "audio_sec": 3.97, "proc_sec": 0.1338}
+{"id": "cs014_eddy", "hyp": "", "audio_sec": 3.716, "proc_sec": 0.0987}
+{"id": "cs014_flo", "hyp": "Сам в мекаще она гамачка в реза микроэдиту. <ru-RU>", "audio_sec": 3.716, "proc_sec": 0.1477}
+{"id": "cs014_reed", "hyp": "", "audio_sec": 3.716, "proc_sec": 0.0966}
+{"id": "cs015_paulina", "hyp": "Levy click al link y me mandó a una página en blanco. <es-ES>", "audio_sec": 4.317, "proc_sec": 0.1581}
+{"id": "cs015_eddy", "hyp": "Le adie click al link y me entro a una página en blanco. <es-ES>", "audio_sec": 3.912, "proc_sec": 0.1579}
+{"id": "cs015_flo", "hyp": "", "audio_sec": 3.912, "proc_sec": 0.0983}
+{"id": "cs015_reed", "hyp": "Lei clic al link y me mandó a una página en blanco. <es-ES>", "audio_sec": 3.912, "proc_sec": 0.1512}
+{"id": "cs016_paulina", "hyp": "Estoy trabajando Park Time en una Coffee Fop cerca de la universidad. <es-ES>", "audio_sec": 5.398, "proc_sec": 0.1848}
+{"id": "cs016_eddy", "hyp": "", "audio_sec": 5.011, "proc_sec": 0.1126}
+{"id": "cs016_flo", "hyp": "ويفرعن لو بارك ماكوفي acerca della Universidad. <it-IT>", "audio_sec": 5.011, "proc_sec": 0.1539}
+{"id": "cs016_reed", "hyp": "El stodio era la gana del parque en una café es lo cerca de la Universidad. <es-ES>", "audio_sec": 5.011, "proc_sec": 0.1695}
+{"id": "cs017_paulina", "hyp": "El deadline para mandar los papeles es el viernes. <es-ES>", "audio_sec": 4.19, "proc_sec": 0.1376}
+{"id": "cs017_eddy", "hyp": "los papeles desde el viernes. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1218}
+{"id": "cs017_flo", "hyp": "Ce relí de paramagra, los papeles desde el viernes. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1362}
+{"id": "cs017_reed", "hyp": "Le ali para mandar los papeles desde el viernes. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1297}
+{"id": "cs018_paulina", "hyp": "Me dijeron que mi client todavía está en review. <es-ES>", "audio_sec": 3.851, "proc_sec": 0.1385}
+{"id": "cs018_eddy", "hyp": "", "audio_sec": 3.692, "proc_sec": 0.0941}
+{"id": "cs018_flo", "hyp": "", "audio_sec": 3.692, "proc_sec": 0.094}
+{"id": "cs018_reed", "hyp": "Valerion che mi claim todavía está en Europa. <es-ES>", "audio_sec": 3.692, "proc_sec": 0.1335}
+{"id": "cs019_paulina", "hyp": "Puedo hacer el pago con Apple Pello con PayPal? <es-ES>", "audio_sec": 3.879, "proc_sec": 0.1395}
+{"id": "cs019_eddy", "hyp": "Puede al ser el pago con el Apple del Playo o con Valle Pal. <es-ES>", "audio_sec": 3.629, "proc_sec": 0.152}
+{"id": "cs019_flo", "hyp": "Puedo hacer el pago con la playa como vario. <es-ES>", "audio_sec": 3.629, "proc_sec": 0.132}
+{"id": "cs019_reed", "hyp": "Puedo al ser el bago con Apple Playo con BayPal. <es-ES>", "audio_sec": 3.629, "proc_sec": 0.1408}
+{"id": "cs020_paulina", "hyp": "Mi hijo tiene práctice de soccer todos los martes. <es-ES>", "audio_sec": 4.269, "proc_sec": 0.1427}
+{"id": "cs020_eddy", "hyp": "Su hijo tiene de practizle desobserve todos los marches. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1373}
+{"id": "cs020_flo", "hyp": "Vejo el proactif se deferoz Martes. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1339}
+{"id": "cs020_reed", "hyp": "Un vehículo que tiene de proclisele de soxer todos los marques. <es-ES>", "audio_sec": 3.947, "proc_sec": 0.1432}
+{"id": "cs021_paulina", "hyp": "Quiero hablar con alguien de customir service, no con la máquina. <es-ES>", "audio_sec": 5.029, "proc_sec": 0.1637}
+{"id": "cs021_eddy", "hyp": "Claro vacular con alguien en el custoder service o con la máquina. <es-ES>", "audio_sec": 4.543, "proc_sec": 0.1632}
+{"id": "cs021_flo", "hyp": "Quiero hablar con alguien de corto merde, como con la máquina. <es-ES>", "audio_sec": 4.543, "proc_sec": 0.1561}
+{"id": "cs021_reed", "hyp": "Plerovabular con alguien en recuservis o con la máquina. <es-ES>", "audio_sec": 4.543, "proc_sec": 0.1543}
+{"id": "cs022_paulina", "hyp": "La delivery decía que llegaba hoy pero sigue en Pendiente. <es-ES>", "audio_sec": 4.364, "proc_sec": 0.1482}
+{"id": "cs022_eddy", "hyp": "La delivery del silla que llegaba o iberosi en Ven. <es-ES>", "audio_sec": 4.074, "proc_sec": 0.1464}
+{"id": "cs022_flo", "hyp": "La delivery decía que llegaba hoy, pero sí en venir. <es-ES>", "audio_sec": 4.074, "proc_sec": 0.1396}
+{"id": "cs022_reed", "hyp": "La deliveri del sia que llenaba uberosie Ven. <es-ES>", "audio_sec": 4.074, "proc_sec": 0.1393}
+{"id": "cs023_paulina", "hyp": "Necesito una recept para mi expense report. <es-ES>", "audio_sec": 4.144, "proc_sec": 0.1368}
+{"id": "cs023_eddy", "hyp": "", "audio_sec": 3.785, "proc_sec": 0.1001}
+{"id": "cs023_flo", "hyp": "", "audio_sec": 3.785, "proc_sec": 0.0975}
+{"id": "cs023_reed", "hyp": "", "audio_sec": 3.785, "proc_sec": 0.0977}
+{"id": "cs024_paulina", "hyp": "El Internet está súper lento desde que hicieron el upgrade. <es-ES>", "audio_sec": 4.713, "proc_sec": 0.1515}
+{"id": "cs024_eddy", "hyp": "El Internet está súper lento desde que hicieron el Ublaje. <es-ES>", "audio_sec": 4.19, "proc_sec": 0.146}
+{"id": "cs024_flo", "hyp": "Celebramente sta súper menos desde que le cieron el Uplay. <es-ES>", "audio_sec": 4.19, "proc_sec": 0.149}
+{"id": "cs024_reed", "hyp": "El Internet está súper lento desde que hicieron el Ublaje. <es-ES>", "audio_sec": 4.19, "proc_sec": 0.1456}
+{"id": "cs025_paulina", "hyp": "con el error message", "audio_sec": 3.772, "proc_sec": 0.1146}
+{"id": "cs025_eddy", "hyp": "Jo Madresk kränd con delle room veslä. <et-EE>", "audio_sec": 3.646, "proc_sec": 0.1302}
+{"id": "cs025_flo", "hyp": "", "audio_sec": 3.646, "proc_sec": 0.0943}
+{"id": "cs025_reed", "hyp": "", "audio_sec": 3.646, "proc_sec": 0.0943}
+{"id": "cs026_paulina", "hyp": "Anyway, lo que quiero es que me regresen mi dinero. <es-ES>", "audio_sec": 4.132, "proc_sec": 0.1445}
+{"id": "cs026_eddy", "hyp": "Lo que quiero es que alrededor es minero", "audio_sec": 4.063, "proc_sec": 0.1306}
+{"id": "cs026_flo", "hyp": "Lo que quiero es que alrededor es en mi enero. <es-ES>", "audio_sec": 4.063, "proc_sec": 0.1412}
+{"id": "cs026_reed", "hyp": "lo que quiero es que me redóis minero", "audio_sec": 4.063, "proc_sec": 0.1296}
+{"id": "cs027_paulina", "hyp": "Tengo una cita en el downtown para lo de mi driver's license", "audio_sec": 4.739, "proc_sec": 0.1639}
+{"id": "cs027_eddy", "hyp": "Segundo a serita nel long barrello de Vedancer", "audio_sec": 4.091, "proc_sec": 0.1405}
+{"id": "cs027_flo", "hyp": "سينغل مثيراً الغنو برض من ر", "audio_sec": 4.091, "proc_sec": 0.1293}
+{"id": "cs027_reed", "hyp": "Segundo necessita nel doparlo deve reverse licenze", "audio_sec": 4.091, "proc_sec": 0.1395}
+{"id": "cs028_paulina", "hyp": "Milan Flor no quiere arreglar la hater del departamento. <es-ES>", "audio_sec": 4.478, "proc_sec": 0.1481}
+{"id": "cs028_eddy", "hyp": "", "audio_sec": 4.224, "proc_sec": 0.1035}
+{"id": "cs028_flo", "hyp": "Mellä me lóquiero de arreglarla y ayer del departamento. <es-ES>", "audio_sec": 4.224, "proc_sec": 0.1481}
+{"id": "cs028_reed", "hyp": "", "audio_sec": 4.224, "proc_sec": 0.103}
+{"id": "cs029_paulina", "hyp": "Tiene fricipin si compro más de cincuenta dólares. <es-ES>", "audio_sec": 4.495, "proc_sec": 0.1491}
+{"id": "cs029_eddy", "hyp": "Cliente puede shirt principal de cinco cuarenta dólares. <es-ES>", "audio_sec": 4.3, "proc_sec": 0.1497}
+{"id": "cs029_flo", "hyp": "", "audio_sec": 4.3, "proc_sec": 0.103}
+{"id": "cs029_reed", "hyp": "Čip więcej comprobati desencu ventares. <vi-VN>", "audio_sec": 4.3, "proc_sec": 0.1336}
+{"id": "cs030_paulina", "hyp": "I selche code, pero il carrito se quedó vacío. <es-ES>", "audio_sec": 4.027, "proc_sec": 0.1409}
+{"id": "cs030_eddy", "hyp": "se quedó vacío. <es-ES>", "audio_sec": 3.739, "proc_sec": 0.1152}
+{"id": "cs030_flo", "hyp": "If they kot veroil karridose quedó vacío. <es-ES>", "audio_sec": 3.739, "proc_sec": 0.1314}
+{"id": "cs030_reed", "hyp": "Is el checo o el carrito se quedó vacío. <es-ES>", "audio_sec": 3.739, "proc_sec": 0.1378}
+{"id": "cs031_paulina", "hyp": "La nurse me dijo que esperar a la llamada del doctor. <es-ES>", "audio_sec": 4.131, "proc_sec": 0.1439}
+{"id": "cs031_eddy", "hyp": "La gourde me dijo que despertar a la llamada del doctor. <es-ES>", "audio_sec": 3.924, "proc_sec": 0.1452}
+{"id": "cs031_flo", "hyp": "La urgente me dijo que despera la llamada del doctor. <es-ES>", "audio_sec": 3.924, "proc_sec": 0.1382}
+{"id": "cs031_reed", "hyp": "La urgente me dijo que le será la llamada del doctor. <es-ES>", "audio_sec": 3.924, "proc_sec": 0.1427}
+{"id": "cs032_paulina", "hyp": "Estoy buscando un trabajo de full time con Benefit. <es-ES>", "audio_sec": 4.446, "proc_sec": 0.1392}
+{"id": "cs032_eddy", "hyp": "Estoy buscando la bracol de punti de comprender flips", "audio_sec": 4.086, "proc_sec": 0.1414}
+{"id": "cs032_flo", "hyp": "Sestud skanvom šlabarkov zapuskim vendes", "audio_sec": 4.086, "proc_sec": 0.1361}
+{"id": "cs032_reed", "hyp": "Estoy buscando el barco de publiciembre con Benderlis", "audio_sec": 4.086, "proc_sec": 0.1407}
+{"id": "cs033_paulina", "hyp": "Ya tengo el appointment confirmado para el lunes en la mañana. <es-ES>", "audio_sec": 4.84, "proc_sec": 0.1651}
+{"id": "cs033_eddy", "hyp": "", "audio_sec": 4.502, "proc_sec": 0.107}
+{"id": "cs033_flo", "hyp": "Yo tengo el apoyo con mi mago para el lunes en la mañana. <es-ES>", "audio_sec": 4.502, "proc_sec": 0.1639}
+{"id": "cs033_reed", "hyp": "Pri al ego del apoyoment confirmado para el lunes en la mañana. <es-ES>", "audio_sec": 4.502, "proc_sec": 0.16}
+{"id": "cs034_paulina", "hyp": "Me cobraron un late fiel y aunque pagué a tiempo. <es-ES>", "audio_sec": 3.886, "proc_sec": 0.1427}
+{"id": "cs034_eddy", "hyp": "Vekobräron lädže aunque paeda tiempo. <sl-SI>", "audio_sec": 3.692, "proc_sec": 0.1414}
+{"id": "cs034_flo", "hyp": "", "audio_sec": 3.692, "proc_sec": 0.3938}
+{"id": "cs034_reed", "hyp": "Ve kobreron glađa seg aunque pague al tiempo. <sl-SI>", "audio_sec": 3.692, "proc_sec": 0.2572}
+{"id": "cs035_paulina", "hyp": "Me puedes dar el número de referencia del caso. <es-ES>", "audio_sec": 3.805, "proc_sec": 0.2287}
+{"id": "cs035_eddy", "hyp": "", "audio_sec": 3.75, "proc_sec": 0.0999}
+{"id": "cs035_flo", "hyp": "Me puedes llegar el número de referencia del caso. <es-ES>", "audio_sec": 3.75, "proc_sec": 0.1332}
+{"id": "cs035_reed", "hyp": "", "audio_sec": 3.75, "proc_sec": 0.0963}
+{"id": "cs036_paulina", "hyp": "Mifón se quedó sin bateria y no pude contestar. <es-ES>", "audio_sec": 4.188, "proc_sec": 0.146}
+{"id": "cs036_eddy", "hyp": "", "audio_sec": 3.866, "proc_sec": 0.0984}
+{"id": "cs036_flo", "hyp": "", "audio_sec": 3.866, "proc_sec": 0.0983}
+{"id": "cs036_reed", "hyp": "", "audio_sec": 3.866, "proc_sec": 0.0976}
+{"id": "cs037_paulina", "hyp": "Quiero activar el autopay para no olvidar los pagos. <es-ES>", "audio_sec": 4.251, "proc_sec": 0.146}
+{"id": "cs037_eddy", "hyp": "", "audio_sec": 3.895, "proc_sec": 0.0983}
+{"id": "cs037_flo", "hyp": "", "audio_sec": 3.895, "proc_sec": 0.0983}
+{"id": "cs037_reed", "hyp": "", "audio_sec": 3.895, "proc_sec": 0.0987}
+{"id": "cs038_paulina", "hyp": "El manager de la tienda me dijo que hablara con ustedes. <es-ES>", "audio_sec": 4.388, "proc_sec": 0.1518}
+{"id": "cs038_eddy", "hyp": "El manager de la cine la me dijo que la hablara con ustedes. <es-ES>", "audio_sec": 4.051, "proc_sec": 0.1506}
+{"id": "cs038_flo", "hyp": "me dijo que la hablara como ustedes", "audio_sec": 4.051, "proc_sec": 0.128}
+{"id": "cs038_reed", "hyp": "", "audio_sec": 4.051, "proc_sec": 0.1009}
+{"id": "cs039_paulina", "hyp": "Está bien, thank you so much que tenga buen día. <es-ES>", "audio_sec": 4.597, "proc_sec": 0.1409}
+{"id": "cs039_eddy", "hyp": "", "audio_sec": 4.051, "proc_sec": 0.1001}
+{"id": "cs039_flo", "hyp": "呃, 小便这 yo so mucho. <es-ES>", "audio_sec": 4.051, "proc_sec": 0.1246}
+{"id": "cs039_reed", "hyp": "", "audio_sec": 4.051, "proc_sec": 0.0998}
+{"id": "cs040_paulina", "hyp": "Ok, entonces espero el follow up la próxima semana. <es-ES>", "audio_sec": 4.899, "proc_sec": 0.1549}
+{"id": "cs040_eddy", "hyp": "Porque entonces el espero del follow habla próxima semana. <es-ES>", "audio_sec": 4.456, "proc_sec": 0.152}
+{"id": "cs040_flo", "hyp": "Por kay sensu se spero enfoyó a la próxima. <es-ES>", "audio_sec": 4.456, "proc_sec": 0.1541}
+{"id": "cs040_reed", "hyp": "Pokaisen on se espero del follow a pla próxima semana. <es-ES>", "audio_sec": 4.456, "proc_sec": 0.1522}

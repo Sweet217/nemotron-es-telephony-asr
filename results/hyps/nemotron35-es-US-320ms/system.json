@@ -1,0 +1,6 @@
+{
+  "name": "nemotron35-es-US-320ms",
+  "description": "nvidia/nemotron-3.5-asr-streaming-0.6b (transformers, lang=es-US, chunk=320 ms, mps, fp32)",
+  "spec": "nemotron",
+  "machine": "macOS-27.2-arm64-arm-64bit / arm / py3.11.11"
+}

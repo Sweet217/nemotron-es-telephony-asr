@@ -1,0 +1,31 @@
+system,condition,voices,en_words,en_miss_pct,es_words,es_miss_pct
+nemotron35-auto-320ms,clean,all 4 voices,328,73.476,1284,36.838
+nemotron35-auto-320ms,clean,Paulina only,82,37.805,321,3.115
+nemotron35-auto-320ms,g711,all 4 voices,328,80.488,1284,46.963
+nemotron35-auto-320ms,g711,Paulina only,82,41.463,321,6.854
+nemotron35-auto-320ms,g711_loss5,all 4 voices,328,81.707,1284,53.427
+nemotron35-auto-320ms,g711_loss5,Paulina only,82,43.902,321,8.100
+nemotron35-auto-320ms,g711_snr10,all 4 voices,328,94.817,1284,70.016
+nemotron35-auto-320ms,g711_snr10,Paulina only,82,92.683,321,48.598
+nemotron35-auto-320ms,nb8k,all 4 voices,328,78.354,1284,50.701
+nemotron35-auto-320ms,nb8k,Paulina only,82,36.585,321,5.919
+nemotron35-es-US-320ms,clean,all 4 voices,328,72.256,1284,29.595
+nemotron35-es-US-320ms,clean,Paulina only,82,39.024,321,3.115
+nemotron35-es-US-320ms,g711,all 4 voices,328,80.183,1284,40.576
+nemotron35-es-US-320ms,g711,Paulina only,82,42.683,321,3.115
+nemotron35-es-US-320ms,g711_loss5,all 4 voices,328,80.793,1284,46.106
+nemotron35-es-US-320ms,g711_loss5,Paulina only,82,43.902,321,4.361
+nemotron35-es-US-320ms,g711_snr10,all 4 voices,328,94.817,1284,62.773
+nemotron35-es-US-320ms,g711_snr10,Paulina only,82,92.683,321,37.695
+nemotron35-es-US-320ms,nb8k,all 4 voices,328,79.878,1284,42.913
+nemotron35-es-US-320ms,nb8k,Paulina only,82,40.244,321,4.361
+whisper-large-v3-turbo-es,clean,all 4 voices,328,41.159,1284,2.804
+whisper-large-v3-turbo-es,clean,Paulina only,82,24.390,321,0.623
+whisper-large-v3-turbo-es,g711,all 4 voices,328,51.220,1284,4.673
+whisper-large-v3-turbo-es,g711,Paulina only,82,26.829,321,0.312
+whisper-large-v3-turbo-es,g711_loss5,all 4 voices,328,52.744,1284,5.607
+whisper-large-v3-turbo-es,g711_loss5,Paulina only,82,30.488,321,1.246
+whisper-large-v3-turbo-es,g711_snr10,all 4 voices,328,70.122,1284,9.891
+whisper-large-v3-turbo-es,g711_snr10,Paulina only,82,53.659,321,3.427
+whisper-large-v3-turbo-es,nb8k,all 4 voices,328,50.000,1284,4.673
+whisper-large-v3-turbo-es,nb8k,Paulina only,82,23.171,321,0.623

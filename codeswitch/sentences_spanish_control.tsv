@@ -1,0 +1,24 @@
+# Monolingual Spanish control prompts (same register and voices as the code-switching set),
+# written for this project (MIT). Lets us separate "synthetic TTS voice" effects from
+# "code-switching" effects.
+# id	text
+es001	Hola, necesito hacer una devolución de mi última compra porque llegó dañada.
+es002	Ya intenté entrar a mi cuenta pero me sale que mi contraseña está mal.
+es003	¿Me puedes mandar el número de rastreo por correo, por favor?
+es004	Mi vuelo sale mañana temprano y todavía no tengo el pase de abordar.
+es005	Quiero cancelar la suscripción antes de que me cobren otra vez.
+es006	El técnico dijo que tenía que reiniciar el módem.
+es007	Estoy en el estacionamiento esperando mi pedido.
+es008	¿Cuánto cuesta cambiarme al plan más completo?
+es009	La aplicación se traba cada vez que abro mi cuenta.
+es010	Ya hablé con tu supervisor y me dijo que me iban a dar un descuento.
+es011	Necesito cambiar la dirección de facturación de mi tarjeta.
+es012	Mi jefe me pidió el informe para la junta de las tres.
+es013	No me llegó el correo de confirmación de la reservación.
+es014	¿Aceptan efectivo o nada más tarjeta de crédito?
+es015	Le di clic al enlace y me mandó a una página en blanco.
+es016	Estoy trabajando medio tiempo en una cafetería cerca de la universidad.
+es017	La fecha límite para mandar los papeles es el viernes.
+es018	Me dijeron que mi reclamación todavía está en revisión.
+es019	Quiero hablar con alguien de atención a clientes, no con la máquina.
+es020	El paquete decía que llegaba hoy pero sigue pendiente.

@@ -1,0 +1,2 @@
+# NeMo runtime: cross-check runner + fine-tuning recipe (heavy; optional for the eval).
+nemo_toolkit[asr]==3.0.0
