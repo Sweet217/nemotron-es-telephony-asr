@@ -2,6 +2,8 @@
 
 **How does NVIDIA Nemotron 3.5 ASR hold up on Latin American Spanish over a phone line?**
 
+**▶ [Listen to the examples](https://huggingface.co/spaces/GVB217/nemotron-phone-spanish)**: 8 Latin American accents, original vs phone line, with what Nemotron transcribes in each case.
+
 Nemotron 3.5 ASR (`nvidia/nemotron-3.5-asr-streaming-0.6b`) reports **4.11% Spanish WER**,
 measured on FLEURS: clean, wideband, read Wikipedia sentences. Contact-center audio is
 8 kHz G.711 μ-law, often lossy and noisy. Callers are spontaneous, regionally accented
