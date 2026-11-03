@@ -50,7 +50,8 @@ class NemotronNeMo(ASRSystem):
         # NOTE: in nemo_toolkit 3.0.0, transcribe(list_of_paths, target_lang=...) builds a
         # manifest without a language field and fails with "Unknown prompt key: 'None'".
         # Passing our own manifest with a "lang" field (the transcribe dataloader's default
-        # lang_field) works.
+        # lang_field) works. Upstream: NVIDIA-NeMo/Speech#15820, fixed on main by
+        # NVIDIA-NeMo/Speech#15940 (merged 2026-10-23) but not in a PyPI release as of 3.0.0.
         import json
 
         with tempfile.TemporaryDirectory() as td:
